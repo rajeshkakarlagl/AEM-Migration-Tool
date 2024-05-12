@@ -1,0 +1,15 @@
+{
+	"page-mappings.csv": [
+		{
+			"mode": "mapping",
+			"sourceKey": "https://handytool0.wordpress.com",
+			"targetKey": "/content/wknd/"
+		}
+	],
+	"file-mappings.csv": [{
+		"mode": "mapping",
+		"sourceKey": "work/source/output.xml",
+		"targetKey": "/content/wknd/"
+	}]
+
+}

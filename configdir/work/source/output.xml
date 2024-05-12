@@ -1,0 +1,86 @@
+<?xml version='1.0' encoding='utf-8'?>
+<pages>
+    <page>
+        <title>Home</title>
+        <link>https://handytool0.wordpress.com/</link>
+        <content>&lt;!-- wp:cover {"url":"https://handytool0.files.wordpress.com/2024/05/better-choice-for-better-results-2.png","id":10,"dimRatio":0,"customOverlayColor":"#FFF","minHeight":100,"minHeightUnit":"vh","contentPosition":"bottom right","isDark":false,"align":"full"} --&gt;
+&lt;div class="wp-block-cover alignfull is-light has-custom-content-position is-position-bottom-right" style="min-height:100vh"&gt;&lt;span aria-hidden="true" class="wp-block-cover__background has-background-dim-0 has-background-dim" style="background-color:#FFF"&gt;&lt;/span&gt;&lt;img class="wp-block-cover__image-background wp-image-10" alt="" src="https://handytool0.files.wordpress.com/2024/05/better-choice-for-better-results-2.png" data-object-fit="cover" /&gt;&lt;div class="wp-block-cover__inner-container"&gt;&lt;!-- wp:jetpack/layout-grid {"column1DesktopSpan":4,"column1DesktopOffset":1,"column1TabletSpan":4,"column1MobileSpan":4,"column2DesktopOffset":12,"column2TabletOffset":5,"className":"alignfull column1-desktop-grid__span-4 column1-desktop-grid__start-2 column1-desktop-grid__row-1 column1-tablet-grid__span-4 column1-tablet-grid__row-1 column1-mobile-grid__span-4 column1-mobile-grid__row-1"} --&gt;
+&lt;div class="wp-block-jetpack-layout-grid alignfull column1-desktop-grid__span-4 column1-desktop-grid__start-2 column1-desktop-grid__row-1 column1-tablet-grid__span-4 column1-tablet-grid__row-1 column1-mobile-grid__span-4 column1-mobile-grid__row-1"&gt;&lt;!-- wp:jetpack/layout-grid-column --&gt;
+&lt;div class="wp-block-jetpack-layout-grid-column wp-block-jetpack-layout-grid__padding-none"&gt;&lt;/div&gt;
+&lt;!-- /wp:jetpack/layout-grid-column --&gt;&lt;/div&gt;
+&lt;!-- /wp:jetpack/layout-grid --&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;!-- /wp:cover --&gt;
+
+&lt;!-- wp:separator {"opacity":"css","style":{"color":{"background":"#e5e5e5"}},"className":"alignfull is-style-wide"} --&gt;
+&lt;hr class="wp-block-separator has-text-color has-css-opacity has-background alignfull is-style-wide" style="background-color:#e5e5e5;color:#e5e5e5" /&gt;
+&lt;!-- /wp:separator --&gt;
+
+&lt;!-- wp:group {"align":"full","style":{"spacing":{"padding":{"top":"6vh","bottom":"6vh"}},"elements":{"link":{"color":{"text":"var:preset|color|background"}}}},"backgroundColor":"foreground","textColor":"background","layout":{"inherit":true,"type":"constrained"}} --&gt;
+&lt;div class="wp-block-group alignfull has-background-color has-foreground-background-color has-text-color has-background has-link-color" style="padding-top:6vh;padding-bottom:6vh"&gt;&lt;!-- wp:jetpack/layout-grid {"gutterSize":"medium","column1DesktopSpan":5,"column1DesktopOffset":1,"column1TabletSpan":4,"column1MobileSpan":4,"column2DesktopSpan":2,"column2DesktopOffset":1,"column2TabletSpan":2,"column2MobileSpan":4,"column3DesktopSpan":2,"column3TabletSpan":2,"column3MobileSpan":4,"column4DesktopOffset":6,"column4TabletOffset":9,"className":"alignfull column1-desktop-grid__span-5 column1-desktop-grid__start-2 column1-desktop-grid__row-1 column2-desktop-grid__span-2 column2-desktop-grid__start-8 column2-desktop-grid__row-1 column3-desktop-grid__span-2 column3-desktop-grid__start-10 column3-desktop-grid__row-1 column1-tablet-grid__span-4 column1-tablet-grid__row-1 column2-tablet-grid__span-2 column2-tablet-grid__start-5 column2-tablet-grid__row-1 column3-tablet-grid__span-2 column3-tablet-grid__start-7 column3-tablet-grid__row-1 column1-mobile-grid__span-4 mobile-grid__span-4 column2-mobile-grid__row-2 column3-mobile-grid__span-4 column3-mobile-grid__row-3"} --&gt;
+&lt;div class="wp-block-jetpack-layout-grid alignfull column1-desktop-grid__span-5 column1-desktop-grid__start-2 column1-desktop-grid__row-1 column2-desktop-grid__span-2 column2-desktop-grid__start-8 column2-desktop-grid__row-1 column3-desktop-grid__span-2 column3-desktop-grid__start-10 column3-desktop-grid__row-1 column1-tablet-grid__span-4 column1-tablet-grid__row-1 column2-tablet-grid__span-2 column2-tablet-grid__start-5 column2-tablet-grid__row-1 column3-tablet-grid__span-2 column3-tablet-grid__start-7 column3-tablet-grid__row-1 column1-mobile-grid__span-4 column1-mobile-grid__row-1 column2-mobile-grid__span-4 column2-mobile-grid__row-2 column3-mobile-grid__span-4 column3-mobile-grid__row-3 wp-block-jetpack-layout-gutter__medium"&gt;&lt;!-- wp:jetpack/layout-grid-column --&gt;
+&lt;div class="wp-block-jetpack-layout-grid-column wp-block-jetpack-layout-grid__padding-none"&gt;&lt;!-- wp:heading {"level":5} --&gt;
+&lt;h5 class="wp-block-heading" id="join-the-mailing-list"&gt;&lt;strong&gt;Join the Mailing List&lt;/strong&gt;&lt;/h5&gt;
+&lt;!-- /wp:heading --&gt;
+
+&lt;!-- wp:paragraph {"fontSize":"small"} --&gt;
+&lt;p class="has-small-font-size"&gt;Subscribe to our newsletter and receive 10% off on your first order.&lt;/p&gt;
+&lt;!-- /wp:paragraph --&gt;
+
+&lt;!-- wp:jetpack/subscriptions {"subscribePlaceholder":"Type your email…","submitButtonText":"Subscribe","borderColor":"#ffffff","customBorderColor":"#ffffff","spacing":0,"successMessage":"Success! An email was just sent to confirm your subscription. Please find the email now and click 'Confirm Follow' to start subscribing."} /--&gt;&lt;/div&gt;
+&lt;!-- /wp:jetpack/layout-grid-column --&gt;
+column1-mobile-grid__row-1 column2-
+&lt;!-- wp:jetpack/layout-grid-column --&gt;
+&lt;div class="wp-block-jetpack-layout-grid-column wp-block-jetpack-layout-grid__padding-none"&gt;&lt;!-- wp:heading {"level":5} --&gt;
+&lt;h5 class="wp-block-heading" id="the-small-print"&gt;&lt;strong&gt;The Small Print&lt;/strong&gt;&lt;/h5&gt;
+&lt;!-- /wp:heading --&gt;
+
+&lt;!-- wp:paragraph {"fontSize":"small"} --&gt;
+&lt;p class="has-small-font-size"&gt;&lt;a href="#"&gt;Delivery&lt;/a&gt; &lt;/p&gt;
+&lt;!-- /wp:paragraph --&gt;
+
+&lt;!-- wp:paragraph {"fontSize":"small"} --&gt;
+&lt;p class="has-small-font-size"&gt;&lt;a href="#"&gt;Returns&lt;/a&gt;&lt;/p&gt;
+&lt;!-- /wp:paragraph --&gt;
+
+&lt;!-- wp:paragraph {"fontSize":"small"} --&gt;
+&lt;p class="has-small-font-size"&gt;&lt;a href="#"&gt;FAQ&lt;/a&gt;&lt;/p&gt;
+&lt;!-- /wp:paragraph --&gt;&lt;/div&gt;
+&lt;!-- /wp:jetpack/layout-grid-column --&gt;
+
+&lt;!-- wp:jetpack/layout-grid-column --&gt;
+&lt;div class="wp-block-jetpack-layout-grid-column wp-block-jetpack-layout-grid__padding-none"&gt;&lt;!-- wp:heading {"level":5} --&gt;
+&lt;h5 class="wp-block-heading" id="social-media"&gt;&lt;strong&gt;Social Media&lt;/strong&gt;&lt;/h5&gt;
+&lt;!-- /wp:heading --&gt;
+
+&lt;!-- wp:paragraph {"textColor":"background","fontSize":"small"} --&gt;
+&lt;p class="has-background-color has-text-color has-small-font-size"&gt;&lt;a href="#"&gt;Facebook&lt;/a&gt;&lt;/p&gt;
+&lt;!-- /wp:paragraph --&gt;
+
+&lt;!-- wp:paragraph {"fontSize":"small"} --&gt;
+&lt;p class="has-small-font-size"&gt;&lt;a href="#"&gt;Instagram&lt;/a&gt;&lt;/p&gt;
+&lt;!-- /wp:paragraph --&gt;
+
+&lt;!-- wp:paragraph {"fontSize":"small"} --&gt;
+&lt;p class="has-small-font-size"&gt;&lt;a href="#"&gt;Pinterest&lt;/a&gt;&lt;/p&gt;
+&lt;!-- /wp:paragraph --&gt;&lt;/div&gt;
+&lt;!-- /wp:jetpack/layout-grid-column --&gt;&lt;/div&gt;
+&lt;!-- /wp:jetpack/layout-grid --&gt;&lt;/div&gt;
+&lt;!-- /wp:group --&gt;</content><author>rajeshkakarla93</author><date>2024-05-07 18:58:00</date></page><page><title>Custom Styles</title><link>https://handytool0.wordpress.com/2024/05/07/wp-global-styles-pub%2fattar/</link><content>{"version":2,"isGlobalStylesUserThemeJSON":true}</content><author>rajeshkakarla93</author><date>2024-05-07 18:58:04</date></page><page><title>Navigation</title><link>https://handytool0.wordpress.com/2024/05/07/navigation/</link><content>&lt;!-- wp:page-list /--&gt;</content><author>rajeshkakarla93</author><date>2024-05-07 18:58:13</date></page><page><title>better-choice-for-better-results-2</title><link>https://handytool0.wordpress.com/home/better-choice-for-better-results-2/</link><content /><author>rajeshkakarla93</author><date>2024-05-07 19:03:26</date></page><page><title>header</title><link>https://handytool0.wordpress.com/2024/05/07/header/</link><content>&lt;!-- wp:group {"className":"gapless-group","layout":{"inherit":"true","type":"constrained"}} --&gt;
+&lt;div class="wp-block-group gapless-group"&gt;&lt;!-- wp:group {"align":"full","style":{"spacing":{"padding":{"bottom":"var(\u002d\u002dwp\u002d\u002dcustom\u002d\u002dgap\u002d\u002dvertical)","top":"var(\u002d\u002dwp\u002d\u002dcustom\u002d\u002dgap\u002d\u002dvertical)"}}},"className":"site-header site-header-linear","layout":{"type":"flex","justifyContent":"space-between"}} --&gt;
+&lt;div class="wp-block-group alignfull site-header site-header-linear" style="padding-top:var(--wp--custom--gap--vertical);padding-bottom:var(--wp--custom--gap--vertical)"&gt;&lt;!-- wp:group {"className":"site-brand","layout":{"type":"flex"}} --&gt;
+&lt;div class="wp-block-group site-brand"&gt;&lt;!-- wp:site-logo {"width":64} /--&gt;
+
+&lt;!-- wp:group {"className":"site-words-stack-small","layout":{"type":"flex"}} --&gt;
+&lt;div class="wp-block-group site-words-stack-small"&gt;&lt;!-- wp:site-title /--&gt;
+
+&lt;!-- wp:site-tagline {"style":{"typography":{"fontSize":"var(\u002d\u002dwp\u002d\u002dcustom\u002d\u002dfont-sizes\u002d\u002dx-small)"}}} /--&gt;&lt;/div&gt;
+&lt;!-- /wp:group --&gt;&lt;/div&gt;
+&lt;!-- /wp:group --&gt;
+
+&lt;!-- wp:navigation {"ref":7,"className":"social-links","layout":{"type":"flex","setCascadingProperties":true,"justifyContent":"right","orientation":"horizontal"},"style":{"spacing":{"margin":{"top":"0"}}}} /--&gt;&lt;/div&gt;
+&lt;!-- /wp:group --&gt;&lt;/div&gt;
+&lt;!-- /wp:group --&gt;
+
+&lt;!-- wp:paragraph --&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;!-- /wp:paragraph --&gt;</content><author>rajeshkakarla93</author><date>2024-05-07 19:07:28</date></page></pages>
